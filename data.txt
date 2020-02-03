@@ -1,0 +1,3 @@
+s=data in line 1
+u=data in line 2
+i=data in line 3
